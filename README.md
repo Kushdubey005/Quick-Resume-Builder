@@ -25,7 +25,17 @@ A modern and responsive Resume Builder web application that allows users to crea
 
 ## Screenshots
 
-![Resume Builder](./screenshots/homepage.png)
+### Homepage
+
+![Homepage](./homepage%20(2).png)
+
+### Dark Mode
+
+![Dark Mode](./Dark%20mode.png)
+
+### Download Feature
+
+![Download Button](./Download%20Button.png)
 
 ## Installation
 
